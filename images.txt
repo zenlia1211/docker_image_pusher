@@ -7,6 +7,6 @@ xhofe/alist:latest
 alpine
 kasmweb/nginx:1.25.3
 python:alpine3.19
-ghcr.io/home-assistant/home-assistant:stable
+ghcr.io/home-assistant/home-assistant:latset
 cnk3x/xunlei:latest
 linuxserver/qbittorrent
