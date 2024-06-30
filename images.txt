@@ -12,3 +12,4 @@ cnk3x/xunlei:latest
 linuxserver/qbittorrent
 seedgou/zerotier-moon
 zerotier/zerotier-containerized
+jellyfin/jellyfin:latest
