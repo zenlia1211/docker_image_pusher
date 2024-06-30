@@ -10,3 +10,4 @@ python:alpine3.19
 ghcr.io/home-assistant/home-assistant:stable
 cnk3x/xunlei:latest
 linuxserver/qbittorrent
+seedgou/zerotier-moon
